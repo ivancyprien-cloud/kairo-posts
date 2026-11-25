@@ -94,7 +94,8 @@
     "alt": "Le bon moment, c'est celui où tu commences."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b077516b8e2338b8572f707"
  },
  {
   "id": "w04",
@@ -127,7 +128,8 @@
     "alt": "Ton téléphone peut te coûter du temps, ou t'en rapporter."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b077567d4eda4b659bf22b2"
  },
  {
   "id": "w05",
@@ -164,7 +166,8 @@
     "alt": "Publier, mesurer, améliorer. Sauvegarde ce post."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b077567a791bea1b238e97a"
  },
  {
   "id": "w06",
@@ -193,7 +196,8 @@
     "alt": "L'Œil du Lynx — la méthode. Abonne-toi pour être prévenu."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b077568a791bea1b238e996"
  },
  {
   "id": "w07",
@@ -222,7 +226,8 @@
     "alt": "Consommer ne fait pas avancer. Créer, si."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b077568a791bea1b238e9c1"
  },
  {
   "id": "w08",
@@ -251,7 +256,8 @@
     "alt": "Commencer mal bat ne jamais commencer."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b077569d4eda4b659bf2366"
  },
  {
   "id": "w09",
@@ -288,7 +294,8 @@
     "alt": "Sauvegarde ce post avant ton prochain achat."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b077569b8e2338b857321a4"
  },
  {
   "id": "w10",
@@ -321,7 +328,8 @@
     "alt": "Bientôt disponible. Abonne-toi pour être prévenu."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b07756aa791bea1b238e9f4"
  },
  {
   "id": "w11",
@@ -350,7 +358,8 @@
     "alt": "Envoie ça à quelqu'un qui recommence chaque lundi."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b07756ad4eda4b659bf23f3"
  },
  {
   "id": "w12",
@@ -383,7 +392,8 @@
     "alt": "Sauvegarde ce post pour la prochaine excuse."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b07756b07071a60673ab1b2"
  },
  {
   "id": "w13",
@@ -420,7 +430,8 @@
     "alt": "La 6e est dans la légende. Réponds-y ce soir."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b07756bb8e2338b857323a5"
  },
  {
   "id": "w14",
@@ -449,6 +460,7 @@
     "alt": "Même dimanche. Pas la même semaine."
    }
   ],
-  "status": "à programmer"
+  "status": "brouillon Buffer (à activer)",
+  "bufferId": "6b07756c9f6dda31cca8e297"
  }
 ]
