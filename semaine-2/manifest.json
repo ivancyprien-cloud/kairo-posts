@@ -26,7 +26,8 @@
     "alt": "Envoie ça à quelqu'un qui se compare trop."
    }
   ],
-  "status": "à programmer"
+  "status": "programmé",
+  "bufferId": "6b075a04d4eda4b659b376ab"
  },
  {
   "id": "w02",
@@ -63,7 +64,8 @@
     "alt": "La 6e est dans la légende. Sauvegarde ce post."
    }
   ],
-  "status": "à programmer"
+  "status": "programmé",
+  "bufferId": "6b075a05a791bea1b22d06e9"
  },
  {
   "id": "w03",
